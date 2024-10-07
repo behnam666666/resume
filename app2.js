@@ -54,7 +54,7 @@ function responsiveFun(event){
         resizableBox.style.height = "530px";
 
 
-        styleSheet.style.background = `url('./mobile.png')`;
+        styleSheet.style.background = `url('./image/mobile.png')`;
         styleSheet.style.position = 'absolute';
         styleSheet.style.top = '-15px';
         styleSheet.style.backgroundPosition = 'center';
@@ -71,7 +71,7 @@ function responsiveFun(event){
         resizableBox.style.width = "1200px";   
         resizableBox.style.height = "530px";
 
-        styleSheet.style.background = `url('./mac.png')`;
+        styleSheet.style.background = `url('./image/mac.png')`;
         styleSheet.style.position = 'absolute';
         styleSheet.style.top = '-85px';
         styleSheet.style.backgroundPosition = 'center';
@@ -86,7 +86,7 @@ function responsiveFun(event){
         resizableBox.style.width = "800px";
         resizableBox.style.height = "530px";
 
-        styleSheet.style.background = `url('./ipad.png')`;
+        styleSheet.style.background = `url('./image/ipad.png')`;
         styleSheet.style.position = 'absolute';
         styleSheet.style.top = '-85px';
         styleSheet.style.backgroundPosition = 'center';
