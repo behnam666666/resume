@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="512" height="512">
+  <linearGradient id="nZ8pj7M4sUy1K8EnzXipda" x1="32" x2="32" y1="5.833" y2="58.346" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+    <stop offset="0" stop-color="#1a6dff" />
+    <stop offset="1" stop-color="#c822ff" />
+  </linearGradient>
+  <path fill="url(#nZ8pj7M4sUy1K8EnzXipda)" d="M32,58C17.663,58,6,46.337,6,32S17.663,6,32,6s26,11.663,26,26S46.337,58,32,58z M32,8 C18.767,8,8,18.767,8,32s10.767,24,24,24s24-10.767,24-24S45.233,8,32,8z" />
+  <linearGradient id="nZ8pj7M4sUy1K8EnzXipdb" x1="32" x2="32" y1="5.833" y2="58.346" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+    <stop offset="0" stop-color="#1a6dff" />
+    <stop offset="1" stop-color="#c822ff" />
+  </linearGradient>
+  <path fill="url(#nZ8pj7M4sUy1K8EnzXipdb)" d="M32,54c-12.131,0-22-9.869-22-22s9.869-22,22-22s22,9.869,22,22S44.131,54,32,54z M32,12 c-11.028,0-20,8.972-20,20s8.972,20,20,20s20-8.972,20-20S43.028,12,32,12z" />
+  <linearGradient id="nZ8pj7M4sUy1K8EnzXipdc" x1="32" x2="32" y1="17.667" y2="46.171" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+    <stop offset="0" stop-color="#6dc7ff" />
+    <stop offset="1" stop-color="#e6abff" />
+  </linearGradient>
+  <path fill="url(#nZ8pj7M4sUy1K8EnzXipdc)" d="M29,19v15h-3.904c-0.856,0-1.381,0.909-0.932,1.615l5.951,9.365c0.864,1.36,2.906,1.36,3.77,0 l5.951-9.365C40.285,34.909,39.76,34,38.904,34H35V19c0-0.552-0.448-1-1-1h-4C29.448,18,29,18.448,29,19z" />
+</svg>
