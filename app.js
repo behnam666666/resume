@@ -44,6 +44,7 @@ const reRender3D = () => {
     renderer.render(scene, camera);
     if(mixer) mixer.update(0.015);
 };
+
 reRender3D();
 
 let arrPositionModel = [

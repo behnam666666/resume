@@ -151,22 +151,3 @@ function mouseleave(){
 
 
 
-// resizeHandleLeft.addEventListener('mousedown', function (e) {
-//   e.preventDefault();
-  
-//   document.addEventListener('mousemove', resize, false);
-//   document.addEventListener('mouseup', stopResize, false);
-  
-//   function resize(e) {
-//     // تغییر عرض المان با حرکت موس
-//     const newWidth = resizableBox.getBoundingClientRect().right - e.clientX;
-//     if (newWidth > 50) { // حداقل اندازه
-//       resizableBox.style.width = newWidth + 'px';
-//     }
-//   }
-
-//   function stopResize() {
-//     document.removeEventListener('mousemove', resize, false);
-//     document.removeEventListener('mouseup', stopResize, false);
-//   }
-// });
